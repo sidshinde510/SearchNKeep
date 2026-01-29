@@ -21,7 +21,7 @@ A lightweight Python utility that recursively searches for specific alphanumeric
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sidshinde510/SearchNKeep.git](https://github.com/sidshinde510/SearchNKeep.git)
+    git clone https://github.com/sidshinde510/SearchNKeep.git
     ```
 2.  **Navigate to the directory:**
     ```bash
@@ -32,7 +32,7 @@ A lightweight Python utility that recursively searches for specific alphanumeric
 
 1.  Run the script:
     ```bash
-    python searchnkeep.py
+    python3 searchnkeep.py
     ```
 2.  **Enter the search term:** Type the string or number you want to find.
 3.  **Enter the path:** Type the directory path to start the search (e.g., `.` for current directory or `C:/Users/Name/Documents`).
